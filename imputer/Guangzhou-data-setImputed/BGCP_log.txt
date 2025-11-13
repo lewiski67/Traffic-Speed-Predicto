@@ -1,0 +1,24 @@
+Iter: 200
+MAPE: 0.0844905
+RMSE: 3.6399
+
+Iter: 400
+MAPE: 0.0841728
+RMSE: 3.6314
+
+Iter: 600
+MAPE: 0.0839693
+RMSE: 3.62419
+
+Iter: 800
+MAPE: 0.0837463
+RMSE: 3.61665
+
+Iter: 1000
+MAPE: 0.0836122
+RMSE: 3.61262
+
+Imputation MAPE: 0.0835415
+Imputation RMSE: 3.6097
+
+Running time: 7712 seconds
